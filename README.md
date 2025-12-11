@@ -6,6 +6,15 @@ A fast-paced 2D arcade-style shooter game built with **Python** and **Pygame**. 
 
 ---
 
+## 📸 Screenshot
+
+> **Main Game**
+
+
+<img width="596" height="819" alt="Screenshot 2025-12-10 195731" src="https://github.com/user-attachments/assets/9972b6b2-1e8f-4647-8de0-03e7f2c7cb8e" />
+
+---
+
 ## 🎮 Features
 
 * ✨ Smooth 2D gameplay using Pygame
